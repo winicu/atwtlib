@@ -1,0 +1,7 @@
+
+spython:S117É"TRename this local variable "Xx_" to match the regular expression ^[_a-z][a-z0-9_]*$.(şÒö8šã™Ê¥1
+{python:S117Ä"WRename this local variable "div_XX" to match the regular expression ^[_a-z][a-z0-9_]*$.(ôÉ•¥úÿÿÿÿ8šã™Ê¥1
+}python:S117Ã"YRename this local variable "div_Xx_X" to match the regular expression ^[_a-z][a-z0-9_]*$.(±§È«üÿÿÿÿ8›ã™Ê¥1
+{python:S117Ô"WRename this local variable "len_XX" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬ÈÁıÿÿÿÿ8›ã™Ê¥1
+Rpython:S1481T".Remove the unused local variable "table_name".(šŒşøÿÿÿÿ8›ã™Ê¥1
+spython:S3776S"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ú™„‘8›ã™Ê¥1
